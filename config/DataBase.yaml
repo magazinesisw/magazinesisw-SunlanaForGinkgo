@@ -1,0 +1,7 @@
+DataBase:
+  host: "47.109.40.154"
+  port: "3306"
+  dataName: "blog"
+  user: "root"
+  password: "mysql_kKX25f"
+
